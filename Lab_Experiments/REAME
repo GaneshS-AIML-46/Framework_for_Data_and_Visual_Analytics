@@ -1,0 +1,45 @@
+# 📊 Framework for Data and Visual Analytics
+
+---
+
+## 🧪 Experiment Details
+
+### 1. 🐍 Setting Up Python Environment  
+- Set up the Python environment with Jupyter Notebook.  
+- Demonstrated Python code execution, Markdown formatting, and interactive widgets like sliders, text inputs, and buttons.
+
+### 2. 📥 EDA: Data Import and Export  
+- Imported datasets from CSV, Excel, SQL databases, and web scraping.  
+- Exported DataFrames to Excel files using pandas and SQL libraries.
+
+### 3. 🧹 EDA: Data Cleaning  
+- Handled missing values, duplicates, and data type conversion.  
+- Applied normalization techniques with MinMaxScaler and StandardScaler.
+
+### 4. 🔍 EDA: Data Inspection and Analysis  
+- Inspected dataset structure using head, tail, dtypes, and info.  
+- Filtered data, calculated key statistics like mean, median, mode, variance, and standard deviation.
+
+### 5. 📈 EDA: Data Visualization with Matplotlib  
+- Created line charts, bar charts, histograms, and boxplots for exploratory analysis.  
+- Visualized score distributions and group comparisons.
+
+### 6. 💻 Data Visualization Using Power BI  
+- Connected to Excel, CSV, and SQL data sources.  
+- Built bar charts, line charts, pie charts, and interactive dashboards with slicers and calculations.
+
+### 7. 🎨 Data Visualization Using Tableau  
+- Used Tableau interface for connecting to data sources.  
+- Created various charts (bar, line, pie, bubble, heat maps) and dashboards.  
+- Developed calculated fields and interactive data stories.
+
+---
+
+## Usage
+- Follow experiments sequentially for comprehensive learning of data handling, cleaning, and visualization.  
+- Each experiment includes problem statements, aims, stepwise procedures, sample codes, and results.
+
+---
+
+This README summarizes the experiments in the Framework for Data and Visual Analytics lab subject for clear understanding and easy navigation.
+
