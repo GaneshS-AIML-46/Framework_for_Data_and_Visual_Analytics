@@ -35,11 +35,5 @@
 
 ---
 
-## Usage
-- Follow experiments sequentially for comprehensive learning of data handling, cleaning, and visualization.  
-- Each experiment includes problem statements, aims, stepwise procedures, sample codes, and results.
 
----
-
-This README summarizes the experiments in the Framework for Data and Visual Analytics lab subject for clear understanding and easy navigation.
 
